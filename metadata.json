@@ -1,0 +1,6 @@
+{
+  "name": "BasketSim: Interactive Shooting Lab",
+  "description": "Una piattaforma interattiva 3D per sperimentare il tiro a canestro, sfidare compagni o il computer e analizzare la fisica del gesto tecnico attraverso l'autovalutazione assistita da IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
